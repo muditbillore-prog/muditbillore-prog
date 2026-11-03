@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mudit Billore</h1>
+# Hi 👋, I'm Mudit Billore
+
 <h3 align="center">CSE Student | Python Developer | Learning AI</h3>
 
 <p align="center">
@@ -21,16 +22,19 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,sql" />
 </p>
 
 ### 🌐 Web & App Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,androidstudio" />
 </p>
 
 ### 🧰 Tools & Technologies
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 </p>
@@ -45,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muditbillore-prog&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=muditbillore-prog&theme=tokyonight" />
 </p>
 
 ---
