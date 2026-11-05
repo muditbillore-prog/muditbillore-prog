@@ -1,39 +1,39 @@
 # Hi 👋, I'm Mudit Billore
 
-<h3 align="center">CSE Student | Python Developer | Learning AI</h3>
+### CSE Student | Python Developer | Learning AI
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;DSA+Enthusiast;Learning+AI+and+Backend+Development;Building+Projects+and+Improving+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Developer;AI%2FML+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Passionate software developer focused on building efficient and scalable solutions.
-- 📚 Currently diving deep into **Data Structures and Algorithms (DSA) using Python**.
-- 🗄️ Expanding backend and data management skills with **SQL**.
-- 🌱 Exploring fields like **AI, Web Development, and Android Development**.
-- 💬 Ask me about **Python scripts, database optimization, and algorithmic problem-solving**.
-- ⚡ Motto: **"Readability counts. Especially when the logic is complex."**
+- 🎓 Computer Science Engineering student.
+- 🐍 Interested in Python development and Artificial Intelligence.
+- 📊 Learning Data Structures & Algorithms and SQL.
+- 🤖 Exploring Machine Learning, Deep Learning and AI applications.
+- 🚀 Building practical projects and improving my development skills.
+- 🎯 Focused on becoming an AI Engineer.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+**Programming Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,sql" />
 </p>
 
-### 🌐 Web & App Development
+**Web & Application Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,androidstudio" />
 </p>
 
-### 🧰 Tools & Technologies
+**Tools & Technologies**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
@@ -41,53 +41,46 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
- ]
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditbillore-prog&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=muditbillore-prog&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=muditbillore-prog&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditbillore-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 📌 Current Focus
+## 🎯 Current Focus
 
-- 🔥 Mastering DSA with Python
-- ⚙️ Backend Development & Databases
-- 🤖 Learning Artificial Intelligence
-- 📱 Exploring Android Development
-- 🌐 Improving Full Stack Development Skills
+- Strengthening Python and DSA fundamentals.
+- Improving SQL and database knowledge.
+- Developing AI/ML projects.
+- Building and documenting real-world applications.
+- Growing my GitHub portfolio through consistent development.
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mudit-billore-76a31321a">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:muditbillore@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<p>
+  <a href="https://github.com/muditbillore-prog">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:muditbillore.22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-📸 Instagram: @mudit_billore
-
 ---
 
-## 📊 Profile Views
+## 👀 Profile Views
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muditbillore-prog&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=muditbillore-prog&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Consistency beats intensity. Build daily.
+  <i>"Consistency, curiosity, and continuous improvement."</i>
 </p>
