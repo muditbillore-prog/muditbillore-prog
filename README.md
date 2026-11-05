@@ -90,15 +90,6 @@ A personal AI assistant project exploring intelligent conversations, providers, 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muditbillore-prog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mudit's GitHub Statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditbillore-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
 
 ---
 
